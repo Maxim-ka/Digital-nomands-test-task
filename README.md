@@ -1,6 +1,6 @@
 ###### Digital-nomands-test-task
 
-![Digital nomads](https://github.com/Maxim-ka/Digital-nomands-test-task/raw/master/Digital-nomands-test-task/Digital nomads.png)
+![Digital nomads](https://github.com/Maxim-ka/Digital-nomands-test-task/blob/master/Digital%20nomads.png)
 ###  Тестовое задание
 Приложение на 3 экранные формы:
 1. Первый экран сплэш скрин (для фона выбрать любую картинку с
